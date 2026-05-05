@@ -1,5 +1,5 @@
 # Customer Segmentation Project — Documentation Notes
-**Gowthamm | Online Retail UK Dataset | SQL + Power BI | 2026**
+**Y Vishnu Reddy | Online Retail UK Dataset | SQL + Power BI | 2026**
 
 ---
 
