@@ -83,7 +83,16 @@ Scores are summed (range 3–15) and mapped to segments:
 1. **Customer Overview** — Total revenue, KPIs, revenue by country, monthly trend
 2. **RFM Segment Analysis** — Scatter plot, segment bar chart, top customers table
 3. **Retention & Trends** — Area chart, retention funnel, revenue heatmap
+## Dashboard Screenshots
 
+### Page 1 — Customer Overview
+![Page 1](screenshots/dashboard_page1_customer_overview.png)
+
+### Page 2 — RFM Segment Analysis
+![Page 2](screenshots/dashboard_page2_rfm_analysis.png)
+
+### Page 3 — Retention & Trends
+![Page 3](screenshots/dashboard_page3_retention_trends.png)
 ---
 
 ## Key Insights
